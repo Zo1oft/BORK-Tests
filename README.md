@@ -1,5 +1,5 @@
 # Проект по автоматизации тестирования BORK.ru
-<a href="https://bork.ru/"><img width="50%" title="Sbergraduate" src="images/logo/BORK_logo_orig.png"></a>
+<a href="https://bork.ru/"><img width="50%" title="BORK" src="images/logo/BORK_logo_orig.png"></a>
 
 ## :point_up: Структура:
 
